@@ -57,3 +57,18 @@ Hopper Controller: `HopperController-Exact-v0`
 TF Bind 8: `TFBind8-Exact-v0`
 TF Bind 10: `TFBind10-Exact-v0`
 NAS: `CIFARNAS-Exact-v0`
+
+Please cite our paper if you find it is useful:
+```
+@inproceedings{yuan2023importanceaware,
+ author = {Yuan, Ye and Chen, Can (Sam) and Liu, Zixuan and Neiswanger, Willie and Liu, Xue (Steve)},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+ pages = {55718--55733},
+ publisher = {Curran Associates, Inc.},
+ title = {Importance-aware Co-teaching for Offline Model-based Optimization},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/ae8b0b5838ba510daff1198474e7b984-Paper-Conference.pdf},
+ volume = {36},
+ year = {2023}
+}
+```
