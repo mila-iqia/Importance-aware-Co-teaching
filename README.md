@@ -58,7 +58,7 @@ TF Bind 8: `TFBind8-Exact-v0`
 TF Bind 10: `TFBind10-Exact-v0`
 NAS: `CIFARNAS-Exact-v0`
 
-Please cite our paper if you find it is useful:
+## Please cite our paper if you find it is useful:
 ```
 @inproceedings{yuan2023importanceaware,
  author = {Yuan, Ye and Chen, Can (Sam) and Liu, Zixuan and Neiswanger, Willie and Liu, Xue (Steve)},
